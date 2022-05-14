@@ -4,21 +4,6 @@ body{
     background:#ededed;
 }
 
-
-#balloon-gallery div:nth-child(13){
-    background:#8e7a8e;
-    color:#8e7a8e;
-}
-
-#balloon-gallery div:nth-child(10n){
-    background:#ff3300;
-    color: #ff3300;
-}
-
-#balloon-gallery div:nth-child(4n){
-    clear:right;
-}
-
 #yay-no-balloons {
     display:none;
     color:#ff3300;
@@ -72,4 +57,20 @@ h1{
 #balloon-gallery div:nth-child(5n){
     background:#8e7a8e;
     color:#8e7a8e;
+}
+
+
+
+#balloon-gallery div:nth-child(13){
+    background:#8e7a8e;
+    color:#8e7a8e;
+}
+
+#balloon-gallery div:nth-child(10n){
+    background:#ff3300;
+    color: #ff3300;
+}
+
+#balloon-gallery div:nth-child(4n){
+    clear:right;
 }
