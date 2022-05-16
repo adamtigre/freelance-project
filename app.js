@@ -11,7 +11,7 @@ document.addEventListener("mouseover", function (e) {
 });
 
 function checkAllPopped() {
-  if (popped === 24) {
+  if (popped === 10) {
     console.log("all popped!");
     let gallery = document.querySelector("#balloon-gallery");
     let message = document.querySelector("#yay-no-balloons");
